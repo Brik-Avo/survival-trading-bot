@@ -1,0 +1,6 @@
+ccxt>=4.0
+pandas>=2.0
+requests>=2.31
+numpy>=1.26
+yfinance>=0.2.40
+vaderSentiment>=3.3.2
