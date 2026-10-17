@@ -22,7 +22,7 @@ No API key is required to run the backtests, the paper trading or the dashboard.
 ## 2. Get the code
 
 ```bash
-git clone https://github.com/<your-user>/survival-trading-bot.git
+git clone https://github.com/Brik-Avo/survival-trading-bot.git
 cd survival-trading-bot
 ```
 
